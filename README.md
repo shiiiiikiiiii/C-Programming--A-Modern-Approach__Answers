@@ -1,2 +1,2 @@
 # C Programming A Modern Approach
-# my own answers that need to code
+# my own answers to questions that need to code
